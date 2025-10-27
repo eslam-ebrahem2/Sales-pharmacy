@@ -5,5 +5,4 @@
 
 ### category screen
 
-<img width="852" height="551" alt="image" src="https://github.com/user-attachments/assets/315f19ba-9bf6-4480-a32b-120aaa58eb26" />
-
+![Project screenshot](./screenshot/category.bmp)
