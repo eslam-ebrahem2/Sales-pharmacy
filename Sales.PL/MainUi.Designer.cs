@@ -66,6 +66,7 @@
             BT_PRODUCT.TabIndex = 1;
             BT_PRODUCT.Text = "PRODUCTS";
             BT_PRODUCT.UseVisualStyleBackColor = false;
+            BT_PRODUCT.Click +=  BT_PRODUCT_Click ;
             // 
             // BT_STOCK
             // 

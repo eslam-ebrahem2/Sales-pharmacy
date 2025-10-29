@@ -235,7 +235,7 @@
             Controls.Add(dataGridView1);
             Controls.Add(panel1);
             Name = "categoryFrm";
-            Text = "categoryFrm";
+            Text = "Category";
             Load +=  categoryFrm_Load ;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
